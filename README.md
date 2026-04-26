@@ -1,5 +1,4 @@
-# MEDICARE
-   # A hospital management system
+# MEDICARE (## A Hospital Management System)
 
 ## Features
 - Real time appointment booking
