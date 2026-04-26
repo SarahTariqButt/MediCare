@@ -1,4 +1,4 @@
-#MEDICARE
+# MEDICARE
    # A hospital management system
 
 ## Features
